@@ -9,7 +9,7 @@
 
 
 ### Heroku:
-![Insomnia](./assets/Screenshot%20(15).png)
+![Heroku Deployment](./assets/Screenshot%20(15).png)
 
 
 
@@ -58,8 +58,8 @@
 * For developers, run nodemon server.js.
 
 * Screenshots:
-![Update Routes](./assets/getThoughtbyId.png)
-![Belongs to Many-Index Models](./assets/reactionModel.png)
+![Update Routes](./assets/auth.png)
+![Belongs to Many-Index Models](./assets/Handlebars-each.png.png)
 
 ## Credits
 
