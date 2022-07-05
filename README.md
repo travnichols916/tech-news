@@ -1,4 +1,4 @@
-# just-tech-news
+# Just-Tech News 
 
 
 <div align="center">
@@ -8,16 +8,20 @@
 </div>
 
 
-### Insomnia:
+### Heroku:
 ![Insomnia](./assets/Screenshot%20(15).png)
 
 
 
 ## Description
 
- * MongoDB is a popular choice for Social Networks due to its speed with large amounts of data and flexibility. 
- * Building an API for a social network web application is where user can share their thoughts, reactions toa  friends thoughts and creating a friend list.
- * Use of date now is used as well as a Utils helper considering the sophistication of the application for accurate formatting and time stamps.
+ * Folder structure follows the Model-View-Controller paradigm.
+ * Expres-handlebars is used to package handlebars.js for views
+ * My SQL2 and Sequelize packages connect to a MySQL database for my models and create an Express.js API for controllers
+ * Dotenv package is used for environment variables
+ * Bcrypt package is used to hash passwords
+ * Express session and connect session sequelize packages are used for authentication. 
+ * Express session package stores the session data on the client in a cookie. 
 
 
 
@@ -30,21 +34,27 @@
 
 ## Technologies used
 * Javascript
-* Mongoose
+* bcrypt
 * Express
 * Node
-* Insomnia
+* Handlebars
+* Sequelize
+* mySQL
+* Dotenv
+
+
 
 
 ## Features
-* GET all users
-* GET a single user by its _id and populated thought and friend data
-* POST a new user
-* PUT to update a user by its _id
-* DELETE to remove user by its _id
+* CMS style blog site
+* Homepage which includes blog posts
+* Sign up features using authentication
+* Abilities to post and comment on the blog.
+* Interaction with other users on the website.
+* Website deployed to Heroku.
 
 ## Usage
-* Installing necessary dependencies including Express, and Mongoose 
+* Installing necessary dependencies including Express, bcrypt, connect-session sequelize, dotenv, Express-Session, Handlebars, MySQL2, and Sequelize.
 * For developers, run nodemon server.js.
 
 * Screenshots:
@@ -54,7 +64,7 @@
 ## Credits
 
 
-* [Travis Nichols](https://github.com/travnichols916/Social-Network-API)
+* [Travis Nichols](https://github.com/travnichols916/tech-news)
 
 
 ## License
