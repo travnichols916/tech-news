@@ -9,7 +9,7 @@
 </div>
 
 
-### Heroku:
+### [Heroku](https://tech-news0001.herokuapp.com/)
 ![Heroku Deployment](./assets/Screenshot%20(45).png)
 
 
@@ -64,8 +64,8 @@
 
 ## Credits
 
-
-* [Travis Nichols](https://github.com/travnichols916/tech-news)
+[Travis Nichols](https://github.com/travnichols916/tech-news)
+* 
 
 
 ## License
