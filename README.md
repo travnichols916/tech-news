@@ -3,13 +3,14 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/>
- <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJS Badge"/>
  <img src="https://img.shields.io/badge/Express.js-white?style=flat&logo=express&logoColor=black" alt="ExpressJS Badge"/>
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJS Badge"/>
+
 </div>
 
 
 ### Heroku:
-![Heroku Deployment](./assets/Screenshot%20(15).png)
+![Heroku Deployment](./assets/Screenshot%20(45).png)
 
 
 
@@ -59,7 +60,7 @@
 
 * Screenshots:
 ![Update Routes](./assets/auth.png)
-![Belongs to Many-Index Models](./assets/Handlebars-each.png.png)
+![HandleBars](./assets/Handlebars-each.png)
 
 ## Credits
 
